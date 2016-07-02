@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/raffaelcavaliere/Projects/sunshine_watchface/watch/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/22.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="c6d79137693d494dee16372d3921f919eb724ced">
+        <dex dex="/Users/raffaelcavaliere/Projects/sunshine_watchface/watch/build/intermediates/pre-dexed/debug/classes-d15864190c13570e8eb10a6f3d74df01147aae01.jar/classes.dex" />
+    </item>
+    <item
+        jar="/Users/raffaelcavaliere/Projects/sunshine_watchface/watch/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="a78183f30e769a98ab4820794f597763088d3065">
+        <dex dex="/Users/raffaelcavaliere/Projects/sunshine_watchface/watch/build/intermediates/pre-dexed/debug/classes-61a0317010d0e7c4cf6029ec0ee867fc73cbfcd9.jar/classes.dex" />
+    </item>
+    <item
+        jar="/Users/raffaelcavaliere/Projects/sunshine_watchface/watch/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="/Users/raffaelcavaliere/Projects/sunshine_watchface/watch/build/intermediates/pre-dexed/debug/classes-c31ba60a7ebf066636253e9db408f6374fea9efc.jar/classes.dex" />
+    </item>
+    <item
+        jar="/Users/raffaelcavaliere/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.1.1/support-annotations-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="/Users/raffaelcavaliere/Projects/sunshine_watchface/watch/build/intermediates/pre-dexed/debug/support-annotations-23.1.1-9bcc62113a22460f4c504d3ea29f29c8cae5d53d.jar/classes.dex" />
+    </item>
+    <item
+        jar="/Users/raffaelcavaliere/Projects/sunshine_watchface/watch/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="69dd177337ead693c408c8dddc9546bb6f1244fa">
+        <dex dex="/Users/raffaelcavaliere/Projects/sunshine_watchface/watch/build/intermediates/pre-dexed/debug/classes-a57759f3c8604134231b336036b9919f5f437d2f.jar/classes.dex" />
+    </item>
+    <item
+        jar="/Users/raffaelcavaliere/Projects/sunshine_watchface/watch/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="/Users/raffaelcavaliere/Projects/sunshine_watchface/watch/build/intermediates/pre-dexed/debug/classes-b986b65a805824cd34921b602d10cd65bb4d043b.jar/classes.dex" />
+    </item>
+    <item
+        jar="/Users/raffaelcavaliere/Projects/sunshine_watchface/watch/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/libs/internal_impl-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="/Users/raffaelcavaliere/Projects/sunshine_watchface/watch/build/intermediates/pre-dexed/debug/internal_impl-23.1.1-d1122d949881eb96e65f1cd16575dcfbba608ca9.jar/classes.dex" />
+    </item>
+    <item
+        jar="/Users/raffaelcavaliere/Projects/sunshine_watchface/watch/build/intermediates/exploded-aar/com.google.android.support/wearable/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="58b928ccbaf9090c632f278d6bd31e1ae42f2457">
+        <dex dex="/Users/raffaelcavaliere/Projects/sunshine_watchface/watch/build/intermediates/pre-dexed/debug/classes-a59c18f9fdb6178bf81634ae74184d14a19b9cbf.jar/classes.dex" />
+    </item>
+
+</items>

@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Sunshine Face</string>
+    <string name="time_am"> AM</string>
+    <string name="time_pm"> PM</string>
+</resources>

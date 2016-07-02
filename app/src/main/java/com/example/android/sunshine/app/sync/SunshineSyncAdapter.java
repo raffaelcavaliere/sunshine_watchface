@@ -398,6 +398,12 @@ public class SunshineSyncAdapter extends AbstractThreadedSyncAdapter {
         }
     }
 
+    private void updateWatch() {
+        if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.LOLLIPOP) {
+            Context context = getContext();
+        }
+    }
+
     private void notifyWeather() {
         Context context = getContext();
         //checking the last update and notify if it' the first of the day
