@@ -6,6 +6,8 @@
     <color name="minute_color">#ffffffff</color>
     <color name="second_color">#ffffffff</color>
     <color name="colons_color">#ffffffff</color>
+    <color name="low_color">#aaffffff</color>
+    <color name="high_color">#ffffffff</color>
 
     <color name="white">#FFFFFF</color>
     <color name="grey">#cccccc</color>

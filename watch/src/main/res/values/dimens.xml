@@ -8,5 +8,8 @@
     <dimen name="digital_y_offset_round">75dp</dimen>
     <dimen name="digital_line_height">26dp</dimen>
     <dimen name="digital_horizontal_line_width">40dp</dimen>
-    <dimen name="digital_horizontal_line_padding">20dp</dimen>
+    <dimen name="digital_horizontal_line_padding">18dp</dimen>
+    <dimen name="digital_temp_padding">34dp</dimen>
+    <dimen name="digital_temp_text_size">24dp</dimen>
+    <dimen name="digital_location_text_size">14dp</dimen>
 </resources>
